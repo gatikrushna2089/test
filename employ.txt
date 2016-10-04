@@ -3,5 +3,5 @@
 300  Raj     Sysadmin   Technology  $7,000
 400  Nisha   Manager    Marketing   $9,500
 500  Randy   Manager    Sales       $6,000
-600 Gati     SE         IT          $10000
+gati
 
