@@ -1,0 +1,27 @@
+
+Amazon provdes the following database services
+  - Amazon RDS  (provides managed relational databases)
+  - Amazon Redshift (petabyte scale data warehouse, it is fast and fully managed)
+  - Amazon DynamoDB (provides managed NoSql databases)
+  - Amazom ElastiCache (An in memory caching services)
+
+  Key concepts
+
+  Relational Databases
+  			Relational database is organised into tables and related withi each other by keys. if we do not need complex join queries or transaction then consider NoSql database.
+
+  NoSql Databases
+  		NoSql database provides schema flexibility(it supports for Json Document model). NoSql tables are schemaless. it can be used to store Json style documents or key-value pairs
+
+ DB instance 
+ 	it is an isolated database environment in cloud. Each DB instance contains multiple databases. DB instance is a basic building block of Relational database system.
+
+ To lunch a DB instance we are selecting the following options
+     - Database engine(it can be mySQl, Microsoft sql server, oracle or postgreySQL)
+     - Database classes(to set up a computing and memory capabilities for DB engine)
+     - we can define the security group for DB instances(security group means to push access control according to define rules)
+
+     AWS Database options
+     	
+
+
